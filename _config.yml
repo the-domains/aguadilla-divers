@@ -1,0 +1,28 @@
+name: Aguadilla Divers
+favicon: null
+layout_spectrum: 0.7012962403241545
+typography_spectrum: 0.3595059148501605
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.925119538558647
+  lightness: 0.8297362176235765
+  saturation: 0.23542838729918003
+  rhythmicContrast: 0.992530629504472
+purpose: []
